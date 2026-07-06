@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://calscall.online/admin/"><img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" alt="Status: Live"></a>
   <a href="#quick-start"><img src="https://img.shields.io/badge/demo-try%20it%20now-blue?style=flat-square" alt="Try it now"></a>
-  <a href="https://rapidapi.com/"><img src="https://img.shields.io/badge/marketplace-rapidapi-orange?style=flat-square" alt="RapidAPI Marketplace"></a>
+  <a href="https://rapidapi.com/reubenatour/api/calscall-nutrition-api"><img src="https://img.shields.io/badge/marketplace-rapidapi-orange?style=flat-square" alt="RapidAPI Marketplace"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT License"></a>
 </p>
 
@@ -68,7 +68,7 @@ curl -H "X-API-Key: your-key-here" \
 | **Pro** | 50,000/month | $49.99 | Production apps |
 | **Enterprise** | Custom | Contact us | High-volume |
 
-**[→ Get your key on RapidAPI](https://rapidapi.com/)** _(coming soon to AWS Marketplace & Gumroad)_
+**[→ Get your key on RapidAPI](https://rapidapi.com/reubenatour/api/calscall-nutrition-api)** _(coming soon to AWS Marketplace & Gumroad)_
 
 ---
 
@@ -264,6 +264,6 @@ Documentation and code examples in this repo are MIT licensed. The CalsCall API 
 
 <p align="center">
   <a href="https://calscall.online">🌐 calscall.online</a> &nbsp;·&nbsp;
-  <a href="https://rapidapi.com/">⚡ RapidAPI</a> &nbsp;·&nbsp;
+  <a href="https://rapidapi.com/reubenatour/api/calscall-nutrition-api">⚡ RapidAPI</a> &nbsp;·&nbsp;
   <a href="https://calscall.online/admin/">📊 Dashboard</a>
 </p>
